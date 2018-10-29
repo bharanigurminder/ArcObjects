@@ -3,4 +3,4 @@ c:\users\gurminderb\documents\visual studio 2015\Projects\AddingFeaturesInFGDBV2
 c:\users\gurminderb\documents\visual studio 2015\Projects\AddingFeaturesInFGDBV2\AddingFeaturesInFGDBV2\obj\Debug\AddingFeaturesInFGDBV2.dll
 c:\users\gurminderb\documents\visual studio 2015\Projects\AddingFeaturesInFGDBV2\AddingFeaturesInFGDBV2\obj\Debug\AddingFeaturesInFGDBV2.pdb
 C:\Users\gurminderb\Documents\Visual Studio 2015\Projects\AddingFeaturesInFGDBV2\AddingFeaturesInFGDBV2\obj\Debug\AddingFeaturesInFGDBV2.csprojResolveAssemblyReference.cache
-C:\Users\gurminderb\Documents\Visual Studio 2015\Projects\AddingFeaturesInFGDBV2\AddingFeaturesInFGDBV2\bin\Debug\AddingFeaturesInFGDBV2.esriAddIn
+C:\Users\gurminderb\documents\visual studio 2015\Projects\AddingFeaturesInFGDBV2\AddingFeaturesInFGDBV2\bin\Debug\AddingFeaturesInFGDBV2.esriAddIn
